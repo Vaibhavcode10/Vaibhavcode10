@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Vaibhavcode10
+- 👋 Hi, I’m Vaibhav
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Vaibhavcode10/Vaibhavcode10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning more about mern stack 
+- 💞️ I’m looking to collaborate on tech project
+- 📫 How to reach me vaibhavhoke274@gmail.com
+ 
